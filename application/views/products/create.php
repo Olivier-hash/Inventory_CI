@@ -51,7 +51,7 @@
 
                 <div class="form-group">
 
-                  <label for="product_image">Image</label>
+                  <label for="product_image">Image-of something</label>
                   <div class="kv-avatar">
                       <div class="file-loading">
                           <input id="product_image" name="product_image" type="file">
