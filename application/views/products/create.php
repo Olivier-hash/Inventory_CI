@@ -51,7 +51,7 @@
 
                 <div class="form-group">
 
-                  <label for="product_image">Image-of something</label>
+                  <label for="product_image">Image</label>
                   <div class="kv-avatar">
                       <div class="file-loading">
                           <input id="product_image" name="product_image" type="file">
@@ -70,7 +70,7 @@
                 <!-- </div> -->
 
                 <div class="form-group">
-                  <label for="price">Price</label>
+                  <label for="price">Price (RWF)</label>
                   <input type="text" class="form-control" id="price" name="price" placeholder="Enter price" autocomplete="off" />
                 </div>
 

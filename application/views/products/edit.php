@@ -68,7 +68,7 @@
                 <!-- </div> -->
 
                 <div class="form-group">
-                  <label for="price">Price</label>
+                  <label for="price">Price (RWF)</label>
                   <input type="text" class="form-control" id="price" name="price" placeholder="Enter price" value="<?php echo $product_data['price']; ?>" autocomplete="off" />
                 </div>
 
